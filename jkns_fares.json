@@ -1,0 +1,1450 @@
+[
+    {
+        "from": "TANJUNG ARU",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "0.40",
+            "children": "-"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "KINARUT",
+        "price": {
+            "adult": "0.85",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "KAWANG",
+        "price": {
+            "adult": "1.25",
+            "children": "0.65"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "PAPAR",
+        "price": {
+            "adult": "1.85",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "2.70",
+            "children": "1.35"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "4.80",
+            "children": "2.40"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "5.60",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "5.90",
+            "children": "2.95"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "RAYOH",
+        "price": {
+            "adult": "6.40",
+            "children": "3.20"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "PANGI",
+        "price": {
+            "adult": "6.90",
+            "children": "3.50"
+        }
+    },
+    {
+        "from": "TANJUNG ARU",
+        "to": "TENOM",
+        "price": {
+            "adult": "7.50",
+            "children": "3.75"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "0.40",
+            "children": "-"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "KINARUT",
+        "price": {
+            "adult": "0.50",
+            "children": "0.25"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "KAWANG",
+        "price": {
+            "adult": "0.90",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "PAPAR",
+        "price": {
+            "adult": "1.55",
+            "children": "0.80"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "2.30",
+            "children": "1.15"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "2.85",
+            "children": "1.45"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "3.45",
+            "children": "1.75"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "4.45",
+            "children": "2.25"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "5.30",
+            "children": "2.65"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "5.55",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "RAYOH",
+        "price": {
+            "adult": "6.05",
+            "children": "3.05"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "PANGI",
+        "price": {
+            "adult": "6.55",
+            "children": "3.30"
+        }
+    },
+    {
+        "from": "PUTATAN",
+        "to": "TENOM",
+        "price": {
+            "adult": "7.20",
+            "children": "3.60"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "0.85",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "0.50",
+            "children": "0.25"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "KAWANG",
+        "price": {
+            "adult": "0.40",
+            "children": "0.20"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "PAPAR",
+        "price": {
+            "adult": "1.10",
+            "children": "0.55"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "1.85",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "2.35",
+            "children": "1.20"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "2.95",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "3.95",
+            "children": "2.00"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "4.85",
+            "children": "2.45"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "5.10",
+            "children": "2.55"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "RAYOH",
+        "price": {
+            "adult": "5.55",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "PANGI",
+        "price": {
+            "adult": "6.10",
+            "children": "3.05"
+        }
+    },
+    {
+        "from": "KINARUT",
+        "to": "TENOM",
+        "price": {
+            "adult": "6.70",
+            "children": "3.35"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "1.25",
+            "children": "0.65"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "0.90",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "KINARUT",
+        "price": {
+            "adult": "0.40",
+            "children": "0.20"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "PAPAR",
+        "price": {
+            "adult": "0.70",
+            "children": "0.35"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "1.45",
+            "children": "0.75"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "2.00",
+            "children": "1.00"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "2.55",
+            "children": "1.30"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "3.55",
+            "children": "1.80"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "4.45",
+            "children": "2.25"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "4.70",
+            "children": "2.35"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "RAYOH",
+        "price": {
+            "adult": "5.15",
+            "children": "2.60"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "PANGI",
+        "price": {
+            "adult": "5.75",
+            "children": "2.90"
+        }
+    },
+    {
+        "from": "KAWANG",
+        "to": "TENOM",
+        "price": {
+            "adult": "6.30",
+            "children": "3.15"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "1.85",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "1.55",
+            "children": "0.80"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "KINARUT",
+        "price": {
+            "adult": "1.10",
+            "children": "0.55"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "KAWANG",
+        "price": {
+            "adult": "0.70",
+            "children": "0.35"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "0.85",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "1.35",
+            "children": "0.70"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "2.95",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "4.05",
+            "children": "2.05"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "RAYOH",
+        "price": {
+            "adult": "4.55",
+            "children": "2.30"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "PANGI",
+        "price": {
+            "adult": "5.05",
+            "children": "2.55"
+        }
+    },
+    {
+        "from": "PAPAR",
+        "to": "TENOM",
+        "price": {
+            "adult": "5.65",
+            "children": "2.85"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "2.70",
+            "children": "1.35"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "2.30",
+            "children": "1.15"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "KINARUT",
+        "price": {
+            "adult": "1.85",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "KAWANG",
+        "price": {
+            "adult": "1.45",
+            "children": "0.75"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "PAPAR",
+        "price": {
+            "adult": "0.85",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "1.15",
+            "children": "0.60"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "2.15",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "3.00",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "3.25",
+            "children": "1.65"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "RAYOH",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "PANGI",
+        "price": {
+            "adult": "4.25",
+            "children": "2.15"
+        }
+    },
+    {
+        "from": "KIMANIS",
+        "to": "TENOM",
+        "price": {
+            "adult": "4.90",
+            "children": "2.45"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "2.85",
+            "children": "1.45"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "KINARUT",
+        "price": {
+            "adult": "2.35",
+            "children": "1.20"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "KAWANG",
+        "price": {
+            "adult": "2.00",
+            "children": "1.00"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "PAPAR",
+        "price": {
+            "adult": "1.35",
+            "children": "0.70"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "1.60",
+            "children": "0.80"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "2.50",
+            "children": "1.25"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "2.75",
+            "children": "1.40"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "RAYOH",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "PANGI",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "BONGAWAN",
+        "to": "TENOM",
+        "price": {
+            "adult": "4.35",
+            "children": "2.20"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "3.45",
+            "children": "1.75"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "KINARUT",
+        "price": {
+            "adult": "2.95",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "KAWANG",
+        "price": {
+            "adult": "2.55",
+            "children": "1.30"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "PAPAR",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "1.15",
+            "children": "0.60"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "1.10",
+            "children": "0.55"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "2.20",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "RAYOH",
+        "price": {
+            "adult": "2.65",
+            "children": "1.35"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "PANGI",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "MEMBAKUT",
+        "to": "TENOM",
+        "price": {
+            "adult": "3.80",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "4.80",
+            "children": "2.40"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "4.45",
+            "children": "2.25"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "KINARUT",
+        "price": {
+            "adult": "3.95",
+            "children": "2.00"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "KAWANG",
+        "price": {
+            "adult": "3.55",
+            "children": "1.80"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "PAPAR",
+        "price": {
+            "adult": "2.95",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "2.15",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "1.60",
+            "children": "0.80"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "1.10",
+            "children": "0.55"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "0.90",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "1.20",
+            "children": "0.60"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "RAYOH",
+        "price": {
+            "adult": "1.65",
+            "children": "0.85"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "PANGI",
+        "price": {
+            "adult": "2.20",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "BEAUFORT",
+        "to": "TENOM",
+        "price": {
+            "adult": "2.75",
+            "children": "1.40"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "5.60",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "5.30",
+            "children": "2.65"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "KINARUT",
+        "price": {
+            "adult": "4.85",
+            "children": "2.45"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "KAWANG",
+        "price": {
+            "adult": "4.45",
+            "children": "2.25"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "PAPAR",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "3.00",
+            "children": "1.50"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "2.50",
+            "children": "2.25"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "0.90",
+            "children": "0.45"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "0.30",
+            "children": "0.15"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "RAYOH",
+        "price": {
+            "adult": "0.80",
+            "children": "0.40"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "PANGI",
+        "price": {
+            "adult": "1.30",
+            "children": "0.65"
+        }
+    },
+    {
+        "from": "SALIWANGAN BARU",
+        "to": "TENOM",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "5.90",
+            "children": "2.95"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "5.55",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "KINARUT",
+        "price": {
+            "adult": "5.10",
+            "children": "2.55"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "KAWANG",
+        "price": {
+            "adult": "4.70",
+            "children": "2.35"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "PAPAR",
+        "price": {
+            "adult": "4.05",
+            "children": "2.05"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "3.25",
+            "children": "1.65"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "2.75",
+            "children": "1.40"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "2.20",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "1.20",
+            "children": "0.60"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "0.30",
+            "children": "0.15"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "RAYOH",
+        "price": {
+            "adult": "0.50",
+            "children": "0.25"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "PANGI",
+        "price": {
+            "adult": "1.00",
+            "children": "0.50"
+        }
+    },
+    {
+        "from": "HALOGILAT",
+        "to": "TENOM",
+        "price": {
+            "adult": "1.65",
+            "children": "0.85"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "6.40",
+            "children": "3.20"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "6.05",
+            "children": "3.05"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "KINARUT",
+        "price": {
+            "adult": "5.55",
+            "children": "2.80"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "KAWANG",
+        "price": {
+            "adult": "5.15",
+            "children": "2.60"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "PAPAR",
+        "price": {
+            "adult": "4.55",
+            "children": "2.30"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "2.65",
+            "children": "1.35"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "1.65",
+            "children": "0.85"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "0.80",
+            "children": "0.40"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "0.50",
+            "children": "0.25"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "PANGI",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "RAYOH",
+        "to": "TENOM",
+        "price": {
+            "adult": "1.20",
+            "children": "0.60"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "6.90",
+            "children": "3.50"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "6.55",
+            "children": "3.30"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "KINARUT",
+        "price": {
+            "adult": "6.10",
+            "children": "3.05"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "KAWANG",
+        "price": {
+            "adult": "5.75",
+            "children": "2.90"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "PAPAR",
+        "price": {
+            "adult": "5.05",
+            "children": "2.55"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "4.25",
+            "children": "2.15"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "3.75",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "3.20",
+            "children": "1.60"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "2.20",
+            "children": "1.10"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "1.30",
+            "children": "0.65"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "1.00",
+            "children": "0.50"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "RAYOH",
+        "price": {
+            "adult": "0.60",
+            "children": "0.30"
+        }
+    },
+    {
+        "from": "PANGI",
+        "to": "TENOM",
+        "price": {
+            "adult": "0.65",
+            "children": "0.35"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "TANJUNG ARU",
+        "price": {
+            "adult": "7.50",
+            "children": "3.75"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "PUTATAN",
+        "price": {
+            "adult": "7.20",
+            "children": "3.60"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "KINARUT",
+        "price": {
+            "adult": "6.70",
+            "children": "3.35"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "KAWANG",
+        "price": {
+            "adult": "6.30",
+            "children": "3.15"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "PAPAR",
+        "price": {
+            "adult": "5.65",
+            "children": "2.85"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "KIMANIS",
+        "price": {
+            "adult": "4.90",
+            "children": "2.45"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "BONGAWAN",
+        "price": {
+            "adult": "4.35",
+            "children": "2.20"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "MEMBAKUT",
+        "price": {
+            "adult": "3.80",
+            "children": "1.90"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "BEAUFORT",
+        "price": {
+            "adult": "2.75",
+            "children": "1.40"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "SALIWANGAN BARU",
+        "price": {
+            "adult": "1.90",
+            "children": "0.95"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "HALOGILAT",
+        "price": {
+            "adult": "1.65",
+            "children": "0.85"
+        }
+    },
+    {
+        "from": "TENOM",
+        "to": "RAYOH",
+        "price": {
+            "adult": "1.20",
+            "children": "0.60"
+        }
+    }
+]
